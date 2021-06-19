@@ -120,3 +120,25 @@ input::placeholder{
    object-fit: contain;
    
 }
+
+@media (max-width:768px){
+    .containerPhoto{
+        width:10rem;
+        position:relative;
+        margin-right: 15rem;
+    }
+    .containerPhoto img{
+        position:absolute;
+        right: -25rem;
+        top:-20rem;
+    }
+        
+}
+@media (max-width:767px){
+
+.containerPhoto{
+    display: none;
+
+}
+
+}
