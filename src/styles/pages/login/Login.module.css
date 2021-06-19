@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    border: 1px solid #dbdbdb;
+    border-radius: 1px;
+
+    width:25rem;
+    height: 27.14rem;
+    
+   
+    background-color:white;
+}
+.group img{
+    width: 12.5rem;
+    margin: 25px 0;
+    
+}
+.lineOr{
+    position: relative;
+    width: 75%;
+    border-top: 1px solid  #dbdbdb;
+    display:flex;
+    justify-content:center;
+    margin-top:  1.28rem;
+}
+.group p{
+     width: 4rem;
+     text-align: center;
+    background-color: white;
+    position: absolute;
+    top: -.51rem;
+    
+}
+
+.group:nth-child(2){
+    height: 3rem;
+    margin-top: 2rem;
+}
+
+input{
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    width: 18.42rem;
+    height: 36px;
+    margin:.2rem 0;
+}
+
+input::placeholder{
+    padding-left: 10px;
+    font-size:0.8rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;;
+}
+.group a{
+    text-decoration:none;
+}
+.logInFacebook{
+    margin-top:3rem;
+    color:#636485;
+    font-weight: bold;
+}
+.group:nth-child(2){
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+   
+}
+.group:nth-child(2) h2{
+    font-weight: 300;
+}
+.group:nth-child(2) h2 a{
+    font-weight: bold;
+    color: #4489c2fb;
+}
+.forgotPassword{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    color:#627c92;
+    font-weight: 400;
+}
+
+.getTheApp{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.getTheApp p{
+    margin:1rem 0;
+}
+.getTheApp div img{
+    width: 134px;
+    height: 40px;
+    margin-right: 1rem;
+}
+
+.containerPhoto{
+    width:10rem;
+    margin-right: 20rem;
+    
+}
+.containerPhoto img{
+    
+    width: 550px;
+    height: 550px;
+   object-fit: contain;
+   
+}
