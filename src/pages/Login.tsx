@@ -4,7 +4,7 @@ export function Login(){
     return(
         <div className={style.container}>
             <div className={style.containerPhoto}>
-                <img src="./instagram-celular.png" alt="" />
+                <img src="./celular.gif" alt="instagram celular" />
             </div>
             <div className={style.loginWrapper}>
                 <div className={style.group}>

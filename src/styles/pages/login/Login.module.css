@@ -3,9 +3,10 @@
 .container{
     width: 100%;
     height: 100vh;
+    padding-top: 4rem;
     background-color: #fafafa;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
 }
 
@@ -109,15 +110,16 @@ input::placeholder{
 }
 
 .containerPhoto{
-    width:10rem;
-    margin-right: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+ 
     
 }
 .containerPhoto img{
-    
-    width: 550px;
-    height: 550px;
-   object-fit: contain;
+    height: 43rem;
+   padding-left: 15rem;
    
 }
 
