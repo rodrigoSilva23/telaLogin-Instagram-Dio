@@ -1,6 +1,6 @@
 # Desafio proposto pela Dio
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/Yj3c6jl8KcI)
+[![Alt text](https://img.youtube.com/vi/Yj3c6jl8KcI/0.jpg)](https://youtu.be/Yj3c6jl8KcI)
 
 ## Available Scripts
 
