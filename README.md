@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Desafio proposto pela Dio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/Yj3c6jl8KcI)
 
 ## Available Scripts
 
